@@ -1,0 +1,7 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='lambda=\'0.11991698319999999\''
+		Status=true
+		FileName='VI956761217894182399.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'

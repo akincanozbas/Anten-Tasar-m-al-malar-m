@@ -1,0 +1,22 @@
+$begin 'Reduced Matrix Header'
+	Version='16.0'
+	BigEndian=false
+	ByteOrder=1094861636
+	DataFormat='BINARY'
+	DataPrecision='Double'
+	TreeCotree=0
+	CentralWaveNumber=2.2006372730492660e+02
+	ReducedSize=45
+	ExcitationSize=1
+	NumPortModes=1
+	BoundMatrixStartNum=3
+	NumMatrices=4
+	BoundRhsStartNum=2
+	NumRhss=2
+	BoundaryID0=2
+	ErrorTolerance=1.5689290811054721e-03
+	MaxSolutions=30
+	NumTFEMMatrices=19
+	StartWaveNumber=1.6766760175613453e+02
+	EndWaveNumber=2.7245985285371864e+02
+$end 'Reduced Matrix Header'
